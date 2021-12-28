@@ -1,0 +1,42 @@
+
+
+
+body{
+    
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: 23px;
+    font-weight: 600;
+      margin: 10px;
+    
+}
+p{
+    font-size: 20px;
+    font-weight: 400;
+
+}
+p .link{
+    color:blue;
+    margin: 10px ;
+    text-decoration: none;
+}
+p .link:hover{
+    color:rgb(0, 255, 128);
+}
+.icon{
+    text-align: center;
+    width:50%;
+    margin:150px auto 0px auto ;
+}
+.icon i{   
+    color: blue;
+   font-size: 110px;
+}
+.content{
+        text-align: center;
+        width:50%;
+        margin-top: 0;
+}

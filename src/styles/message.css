@@ -1,0 +1,29 @@
+
+
+.text{
+    padding: 5px;
+    
+}
+.text p{
+ 
+    display: inline-block;
+    text-align: center;
+    padding: 3px;
+    margin: auto;
+    background-color: cornsilk;
+    border:none;
+    border-radius: 5px;
+    font-size: 14px;
+  
+}
+.img{
+    padding: 3px;
+    font-size: 14px;
+}
+
+.img img{
+    width: 150px;
+    height: 150px;
+    border:1px solid #ccc;
+    border-radius: 4px;
+}

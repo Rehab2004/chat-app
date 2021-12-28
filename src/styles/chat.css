@@ -1,0 +1,70 @@
+
+
+
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    height: 1000px;
+    
+    
+    
+}
+
+.chat{
+    padding: 10px;
+    height: 100%;
+    width: 700px;
+    margin:30px auto ;
+    border:2px solid #ccc;
+    box-shadow: 6px 3px 6px #000;
+    border-radius: 4px;
+}
+.header{
+    background-color: rgb(241, 201, 148);
+    width: 100%;
+    margin-bottom: 5px;
+    border:1px solid rgb(112, 77, 2);
+    border-radius: 4px;
+    height: 70px;
+}
+ .form{
+    display: flex;
+    position: fixed;
+    bottom:0;
+    left:43%;
+    width: 50%;
+    padding: 3px;
+ 
+}
+ .form textarea{
+    
+    margin-right: 5px;
+    width: 50%;
+    padding: 2px;
+    font-size: 14px;
+    border:1px solid #ccc;
+    border-radius: 4px;
+
+}
+
+.form #btn{
+    width:60px;
+    background-color: #fff;
+    border:none;
+    outline: none;
+}
+.form #btn span i{
+    color:blue;
+    font-size: 20px;
+}
+.form .icon{
+    width:100px;
+}
+.form .icon i{
+    font-size: 30px;
+}
+
+.form #file{
+    display: none;
+}
